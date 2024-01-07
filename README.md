@@ -1,7 +1,14 @@
 ### Olá viajante! 🧭
 
-Me chamo João e sou Tecnólogo em Gestão Empresarial, gosto muito de entender as coisas e criar planejamentos para gerar soluções. Ver seus projetos tomando forma, 
-funcionando, em constante evolução é incrível, por isso que estou tão empolgado estudando tecnologia!
+👋 Me chamo João Matheus Oliveira
+
+📚 Estudante de Ciência de Dados apaixonado por transformar dados em insights significativos. Atualmente, concentro meus esforços em análises de dados e elaboração de relatórios, utilizando minha expertise em ETL (Extract, Transform, Load). Minha principal Stack é Python, onde aproveito todo o seu potencial para explorar, limpar e visualizar dados de maneira eficiente.
+
+🌐 Com formação em Gestão Empresarial, trago uma visão abrangente que vai além dos números. Essa base sólida em negócios proporciona uma compreensão mais profunda dos desafios empresariais, permitindo-me traduzir dados complexos em insights estratégicos. 
+
+💻 Além disso, sou habilidoso na criação de integrações de API's, permitindo uma comunicação fluida entre diferentes sistemas e a obtenção de dados em tempo real.
+
+🚀 Estou em constante busca de aprofundamento na engenharia de software e tenho grande interesse em explorar o fascinante mundo do Machine Learning. Em grão por grão de conhecimento, acredito que podemos construir uma montanha.
 
 ### Algumas tecnologias que utilizo:
 ##
