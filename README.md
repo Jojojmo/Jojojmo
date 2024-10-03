@@ -1,31 +1,21 @@
-### Olá viajante! 🧭
+## João Matheus Oliveira
 
-👋 Me chamo João Matheus Oliveira
+Sou formado em Gestão de Empresas e atuo no setor de tecnologia e desenvolvimento. Estou aprofundando meus conhecimentos em Ciência de Dados pela Fatec de Cotia, onde me especializo em modelos de aprendizado de máquina e métricas de desempenho. Minha paixão por desvendar como as coisas funcionam me instiga a buscar novas ideias!
 
-📚 Estudante de Ciência de Dados apaixonado por transformar dados em insights significativos. Atualmente, concentro meus esforços em análises de dados e elaboração de relatórios, utilizando minha expertise em ETL (Extract, Transform, Load). Minha principal Stack é Python, onde aproveito todo o seu potencial para explorar, limpar e visualizar dados de maneira eficiente.
+## 💡 Principais Conhecimentos:
 
-🌐 Com formação em Gestão Empresarial, trago uma visão abrangente que vai além dos números. Essa base sólida em negócios proporciona uma compreensão mais profunda dos desafios empresariais, permitindo-me traduzir dados complexos em insights estratégicos. 
-
-💻 Além disso, sou habilidoso na criação de integrações de API's, permitindo uma comunicação fluida entre diferentes sistemas e a obtenção de dados em tempo real.
-
-🚀 Estou em constante busca de aprofundamento na engenharia de software e tenho grande interesse em explorar o fascinante mundo do Machine Learning. Em grão por grão de conhecimento, acredito que podemos construir uma montanha.
-
-### Algumas tecnologias que utilizo:
-##
-<div style="display: inline_block">
-  <img aling="center" alt="logo Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img aling="center" alt="logo JavaScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img aling="center" alt="logo Postgre SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img aling="center" alt="logo Pandas" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img aling="center" alt="logo html 5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img aling="center" alt="logo css 3" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-          
-
-          
-  
-</div>
-
+- Python
+- Análise e Pesquisa Exploratória
+- Modelagem de Regressão, Classificação e Agrupamentos
+- ETL (Extração, Transformação e Carga)
+- SQL
+- NoSQL (Em específico o Orientado a documentos)
+- Testes unitários 
+- Docker e Conteinerização
+- Processamento de Linguagem Natural (NLP)
+- Uso e Desenvolvimento de APIs
+- Visão Computacional
+- Automação de Processos
 
 
 ##
