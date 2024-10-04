@@ -10,6 +10,7 @@ Sou formado em Gestão de Empresas e atuo no setor de tecnologia e desenvolvimen
 - ETL (Extração, Transformação e Carga)
 - SQL
 - NoSQL (Em específico o Orientado a documentos)
+- Spark
 - Testes unitários 
 - Docker e Conteinerização
 - Processamento de Linguagem Natural (NLP)
